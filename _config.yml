@@ -4,7 +4,7 @@ title:              AWS User Group Israel
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'http://aws.org.il' # The base hostname & protocol for your site
+url:                'https://aws-ug-israel.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/awsugisrael
 facebook:           https://www.facebook.com/awsil
 
