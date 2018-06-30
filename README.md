@@ -12,7 +12,7 @@ The Israel chapter of Amazon Web Services User Group. The group dedicated to clo
 
 ## You can find us on Facebook
 ### For AWS News on the Facebook page 
-[![](./assets/160px-F_icon.svg.png)](https://www.facebook.com/awsil/)
+[![](./assets/100px-F_icon.svg.png)](https://www.facebook.com/awsil/)
 
 ### For Discussions on the Facebook group
-[![](./assets/160px-F_icon.svg.png)](https://www.facebook.com/groups/343057205867589/)
+[![](./assets/100px-F_icon.svg.png)](https://www.facebook.com/groups/343057205867589/)
