@@ -44,6 +44,5 @@ cd aws-ug-israel.github.io
 Build the site on the preview server
 ```
 bundle exec jekyll serve
-$ jekyll build
 ```
 Now browse to http://localhost:4000
