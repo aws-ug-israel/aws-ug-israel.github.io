@@ -11,7 +11,7 @@ The Israel chapter of Amazon Web Services User Group. The group dedicated to clo
 <a href="https://www.meetup.com/AWS-IL/">![Meetup Group]({{ "/assets/meetup_100px.jpg" | absolute_url }})</a>
 
 ## Join our Slack Channel:
-<a href="https://www.meetup.com/AWS-IL/">![Slack Channe]({{ "/assets/slack_icon_100px.png" | absolute_url }})</a>
+<a href="http://bit.ly/2ErwJa5">![Slack Channe]({{ "/assets/slack_icon_100px.png" | absolute_url }})</a>
 
 ## You can find us on Facebook
 ### For AWS News on the Facebook page 
