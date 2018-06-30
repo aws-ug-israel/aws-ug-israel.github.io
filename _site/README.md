@@ -32,8 +32,17 @@ Jekyll is a Ruby Gem, and can be installed on most systems.
 For more details: https://jekyllrb.com/docs/installation/
 
 ## Quick-start guide
+Install Jekyll and Bundler gems through RubyGems
 ```
-$ jekyll build
+gem install jekyll bundler
 ```
-
-##   
+Clone aws-ug-israel.github.io.git repository
+``` 
+git clone https://github.com/aws-ug-israel/aws-ug-israel.github.io.git
+cd aws-ug-israel.github.io
+```
+Build the site on the preview server
+```
+bundle exec jekyll serve
+```
+Now browse to http://localhost:4000

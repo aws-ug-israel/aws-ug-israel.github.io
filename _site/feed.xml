@@ -5,8 +5,8 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jun 2018 08:41:57 +0300</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 08:41:57 +0300</lastBuildDate>
+    <pubDate>Sat, 30 Jun 2018 21:00:40 +0300</pubDate>
+    <lastBuildDate>Sat, 30 Jun 2018 21:00:40 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -20,9 +20,23 @@
         
           <item>
             <title>About</title>
-            <description>&lt;p&gt;AWS User Group Israel&lt;/p&gt;
+            <description>&lt;h2 id=&quot;what-were-about&quot;&gt;What we’re about&lt;/h2&gt;
+&lt;p&gt;The Israel chapter of Amazon Web Services User Group. The group dedicated to cloud services provided by Amazon.&lt;/p&gt;
+
+&lt;h2 id=&quot;join-our-meetup-group&quot;&gt;Join our meetup group&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/AWS-IL/&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/meetup_100px.jpg&quot; alt=&quot;Meetup Group&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;join-our-slack-channel&quot;&gt;Join our Slack Channel:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/AWS-IL/&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/slack_icon_100px.png&quot; alt=&quot;Slack Channe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;you-can-find-us-on-facebook&quot;&gt;You can find us on Facebook&lt;/h2&gt;
+&lt;h3 id=&quot;for-aws-news-on-the-facebook-page&quot;&gt;For AWS News on the Facebook page&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/awsil/&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/100px-F_icon.svg.png&quot; alt=&quot;FB Channe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;for-discussions-on-the-facebook-group&quot;&gt;For Discussions on the Facebook group&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/groups/343057205867589/&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/100px-F_icon.svg.png&quot; alt=&quot;FB Channe&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>http://localhost:4000/about/</link>
           </item>
         
       
