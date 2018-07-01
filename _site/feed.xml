@@ -5,8 +5,8 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jul 2018 15:34:38 +0300</pubDate>
-    <lastBuildDate>Sun, 01 Jul 2018 15:34:38 +0300</lastBuildDate>
+    <pubDate>Sun, 01 Jul 2018 22:30:15 +0300</pubDate>
+    <lastBuildDate>Sun, 01 Jul 2018 22:30:15 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -109,6 +109,29 @@
 &lt;/ul&gt;
 </description>
             <link>http://localhost:4000/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Speakers</title>
+            <description>## Our speekers
+
+&lt;ul&gt;
+{% for speaker in site.data.speakers_list %}
+  &lt;li&gt;
+    &lt;a href=&quot;{{ speaker.LinkedIn }}&quot;&gt;
+      {{ speaker.first_name }} {{ speaker.last_name }}
+    &lt;/a&gt;
+  &lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
+
+
+</description>
+            <link>http://localhost:4000/speakers/</link>
           </item>
         
       
