@@ -5,8 +5,8 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jul 2018 15:22:45 +0300</pubDate>
-    <lastBuildDate>Sun, 01 Jul 2018 15:22:45 +0300</lastBuildDate>
+    <pubDate>Sun, 01 Jul 2018 15:34:38 +0300</pubDate>
+    <lastBuildDate>Sun, 01 Jul 2018 15:34:38 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -50,6 +50,17 @@
           <item>
             <title></title>
             <description>## Welcome to AWS Israel Community web site
+
+### Coming meetups
+&lt;ul&gt;
+{% for meetup in site.data.coming_meetups %}
+  &lt;li&gt;
+    &lt;a href=&quot;{{ meetup.link }}&quot;&gt;
+      {{ meetup.name }} - {{ meetup.local_date }} {{ meetup.local_time }} @ {{ meetup.venue.name }}
+    &lt;/a&gt;
+  &lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
 
 ### Past meetups
 

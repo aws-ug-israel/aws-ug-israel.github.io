@@ -4,6 +4,17 @@ image: '/assets/aws_il_user_group_big.jpeg'
 ---
 ## Welcome to AWS Israel Community web site
 
+### Coming meetups
+<ul>
+{% for meetup in site.data.coming_meetups %}
+  <li>
+    <a href="{{ meetup.link }}">
+      {{ meetup.name }} - {{ meetup.local_date }} {{ meetup.local_time }} @ {{ meetup.venue.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 ### Past meetups
 
 #### 2018
