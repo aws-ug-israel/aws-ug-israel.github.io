@@ -36,10 +36,10 @@ Install Jekyll and Bundler gems through RubyGems
 ```
 gem install jekyll bundler
 ```
-Clone aws-ug-israel.github.io.git repository
+Clone aws.org.il.git repository
 ``` 
-git clone https://github.com/aws-ug-israel/aws-ug-israel.github.io.git
-cd aws-ug-israel.github.io
+git clone https://github.com/aws-ug-israel/aws.org.il.git
+cd aws.org.il
 ```
 Build the site on the preview server
 ```
