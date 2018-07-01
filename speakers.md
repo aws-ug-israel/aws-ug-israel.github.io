@@ -8,11 +8,8 @@ permalink: /speakers/
 
 <ul>
 {% for speaker in site.data.speakers_list %}
-  <li>
-    <a href="{{ speaker.LinkedIn }}">
-      {{ speaker.first_name }} {{ speaker.last_name }}
-    </a>
-  </li>
+    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    <script type="IN/MemberProfile" data-id="{{ speaker.LinkedIn }}" data-format="inline" data-related="false"></script>
 {% endfor %}
 </ul>
 
