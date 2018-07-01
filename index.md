@@ -2,7 +2,6 @@
 layout: page
 image: '/assets/aws_il_user_group_big.jpeg'
 ---
-## Welcome to AWS Israel Community web site
 
 ### Coming meetups
 <ul>
