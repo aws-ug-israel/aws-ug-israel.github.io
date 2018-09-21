@@ -8,13 +8,14 @@ image: '/assets/aws_il_user_group_big.jpeg'
 # Meetups Recordings
 
 #### Cloudfront vs DIY CDN - Andrei Burd
-{% youtube "https://www.youtube.com/watch?v=hObVswvdor4" %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/hObVswvdor4" frameborder="0"> </iframe>
 
 #### ELB hacks - Avi Keinan
-{% youtube "https://www.youtube.com/watch?v=xed-urv52lc" %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/xed-urv52lc" frameborder="0"> </iframe>
+
 
 #### Migrating Hadoop to AWS without busting the bank - Liran Vaknin
-{% youtube "https://www.youtube.com/watch?v=HfyfOcW6GDg" %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/HfyfOcW6GDg" frameborder="0"> </iframe>
 
 
 # Meetup slides

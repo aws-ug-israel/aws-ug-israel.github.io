@@ -5,8 +5,8 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Sep 2018 21:32:27 +0300</pubDate>
-    <lastBuildDate>Fri, 21 Sep 2018 21:32:27 +0300</lastBuildDate>
+    <pubDate>Fri, 21 Sep 2018 21:39:39 +0300</pubDate>
+    <lastBuildDate>Fri, 21 Sep 2018 21:39:39 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
     
@@ -15,12 +15,10 @@
         <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
 
 &lt;h4 id=&quot;cloud-native-distributed-tracing-using-open-source---jaeger-and-opentracing---by-itiel-shwartz&quot;&gt;Cloud-Native distributed tracing using open source - Jaeger and opentracing - by Itiel Shwartz&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/gRE_TbYEsjE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/gRE_TbYEsjE&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h4 id=&quot;bluegreen-deployment-canary-releases-and-database-consistency-by-tomer-admon&quot;&gt;Blue/green deployment, canary releases and database consistency by Tomer Admon&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/imnXxcuQJU0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/imnXxcuQJU0&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
 
@@ -36,16 +34,13 @@
         <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
 
 &lt;h4 id=&quot;how-to-squeeze-etls-performance-from-hours-to-minutes---eitan-sela&quot;&gt;How to squeeze ETLs performance from hours to minutes - Eitan Sela&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/oCO92VTTjB8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/oCO92VTTjB8&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h4 id=&quot;squeegee---serverless-aws-cost-and-usage-analysis-at-scale---by-elliott-spira&quot;&gt;Squeegee - “Serverless” AWS Cost and Usage Analysis at Scale - by Elliott Spira&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/ncaN9wFt4Fc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/ncaN9wFt4Fc&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h4 id=&quot;advanced-gpu-operations-on-aws---gil-bahat&quot;&gt;Advanced GPU operations on AWS - Gil Bahat&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/KViIsIa2ny4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/KViIsIa2ny4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
 
@@ -61,16 +56,13 @@
         <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
 
 &lt;h4 id=&quot;cloudfront-vs-diy-cdn---andrei-burd&quot;&gt;Cloudfront vs DIY CDN - Andrei Burd&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/hObVswvdor4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/hObVswvdor4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h4 id=&quot;elb-hacks---avi-keinan&quot;&gt;ELB hacks - Avi Keinan&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/xed-urv52lc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/xed-urv52lc&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h4 id=&quot;migrating-hadoop-to-aws-without-busting-the-bank---liran-vaknin&quot;&gt;Migrating Hadoop to AWS without busting the bank - Liran Vaknin&lt;/h4&gt;
-&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;
-&lt;div class=&quot;embed-container&quot;&gt;    &lt;iframe title=&quot;YouTube video player&quot; width=&quot;640&quot; height=&quot;390&quot; src=&quot;//www.youtube.com/embed/HfyfOcW6GDg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/HfyfOcW6GDg&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
 
 &lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
 
