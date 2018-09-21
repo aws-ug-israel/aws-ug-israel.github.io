@@ -8,13 +8,13 @@ image: '/assets/aws_il_user_group_big.jpeg'
 # Meetups Recordings
 
 #### How to squeeze ETLs performance from hours to minutes - Eitan Sela
-{% youtube oCO92VTTjB8 %}
+{% youtube "https://www.youtube.com/watch?v=oCO92VTTjB8" %}
 
 #### Squeegee - "Serverless" AWS Cost and Usage Analysis at Scale - by Elliott Spira
-{% youtube ncaN9wFt4Fc %}
+{% youtube "https://www.youtube.com/watch?v=ncaN9wFt4Fc" %}
 
 #### Advanced GPU operations on AWS - Gil Bahat
-{% youtube KViIsIa2ny4 %}
+{% youtube "https://www.youtube.com/watch?v=KViIsIa2ny4" %}
 
 
 # Meetup slides

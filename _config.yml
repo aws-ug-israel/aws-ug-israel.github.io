@@ -48,3 +48,5 @@ authors:
     website:  http://schmunk.me
     github:   https://github.com/h668
     twitter:  https://twitter.com/arthurschmunk
+
+plugins: [jekyll-youtube]
