@@ -46,3 +46,15 @@ Build the site on the preview server
 bundle exec jekyll serve
 ```
 Now browse to http://localhost:4000
+
+## Meetup API
+In order to populate past meetups and upcoming meetups, we will use meetup.com API.
+### Get past meetups for 2018 and dump it into JSON file (located under _data folder)
+```
+curl -X GET 'https://api.meetup.com/AWS-IL/events?no_earlier_than=2018-01-01&no_later_than=2019-01-01&status=past&desc=true' > past_meetups_2018.json
+```
+
+### Get upcoming meetups and dump it into JSON file (located under _data folder)
+```
+curl -X GET 'https://api.meetup.com/AWS-IL/events' > coming_meetups.json
+```
