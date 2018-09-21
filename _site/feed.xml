@@ -5,10 +5,66 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Sep 2018 14:36:24 +0300</pubDate>
-    <lastBuildDate>Fri, 21 Sep 2018 14:36:24 +0300</lastBuildDate>
+    <pubDate>Fri, 21 Sep 2018 15:21:01 +0300</pubDate>
+    <lastBuildDate>Fri, 21 Sep 2018 15:21:01 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>2018-08-21 - Production Engineering on AWS. Debugging, Blue/Green, Canary, DB consistency</title>
+        <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gRE_TbYEsjE&quot;&gt;Cloud-Native distributed tracing using open source - Jaeger and opentracing - by Itiel Shwartz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=imnXxcuQJU0&quot;&gt;Blue/green deployment, canary releases and database consistency by Tomer Admon&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/slides/Production_Engineering_on_AWS.pdf&quot;&gt;Production Engineering on AWS&lt;/a&gt; PDF file.&lt;/p&gt;
+</description>
+        <pubDate>21 Aug 2018</pubDate>
+        <link>http://localhost:4000/2018/08/21/production-engineering-on-aws-debugging-blue-green-canary-db-consistency/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/21/production-engineering-on-aws-debugging-blue-green-canary-db-consistency/</guid>
+      </item>
+    
+      <item>
+        <title>2018-07-16 - Big Data on AWS</title>
+        <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oCO92VTTjB8&amp;amp;t=174s&quot;&gt;How to squeeze ETLs performance from hours to minutes - Eitan Sela&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ncaN9wFt4Fc&quot;&gt;Squeegee - “Serverless” AWS Cost and Usage Analysis at Scale - by Elliott Spira&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KViIsIa2ny4&quot;&gt;Advanced GPU operations on AWS - Gil Bahat&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/slides/Big_Data_on_AWS.pdf&quot;&gt;Big Data on AWS&lt;/a&gt; PDF file.&lt;/p&gt;
+</description>
+        <pubDate>16 Jul 2018</pubDate>
+        <link>http://localhost:4000/2018/07/16/big_data_on_aws/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/16/big_data_on_aws/</guid>
+      </item>
+    
+      <item>
+        <title>2018-06-18 - Kombinot on AWS - Running Beyond Cost Effective</title>
+        <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hObVswvdor4&quot;&gt;Cloudfront vs DIY CDN - Andrei Burd&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=xed-urv52lc&quot;&gt;ELB hacks - Avi Keinan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=HfyfOcW6GDg&quot;&gt;Migrating Hadoop to AWS without busting the bank - Liran Vaknin&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/slides/Kombinot_on_AWS.pdf&quot;&gt;Kombinot on AWS&lt;/a&gt; PDF file.&lt;/p&gt;
+</description>
+        <pubDate>18 Jun 2018</pubDate>
+        <link>http://localhost:4000/2018/06/18/kombinot_on_aws/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/06/18/kombinot_on_aws/</guid>
+      </item>
     
 
     
@@ -107,6 +163,25 @@
 &lt;/ul&gt;
 </description>
             <link>http://localhost:4000/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Slides &amp; Recordings</title>
+            <description>## Slides &amp; Recordings
+&lt;ul&gt;
+  {% for post in site.posts %}
+    &lt;li&gt;
+      &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;
+    &lt;/li&gt;
+  {% endfor %}
+&lt;/ul&gt;
+
+</description>
+            <link>http://localhost:4000/slides_and_recordings/</link>
           </item>
         
       
