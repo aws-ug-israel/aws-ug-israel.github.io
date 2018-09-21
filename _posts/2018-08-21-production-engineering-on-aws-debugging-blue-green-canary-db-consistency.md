@@ -7,8 +7,12 @@ image: '/assets/aws_il_user_group_big.jpeg'
 
 # Meetups Recordings
 
-1. [Cloud-Native distributed tracing using open source - Jaeger and opentracing - by Itiel Shwartz](https://www.youtube.com/watch?v=gRE_TbYEsjE)
-2. [Blue/green deployment, canary releases and database consistency by Tomer Admon](https://www.youtube.com/watch?v=imnXxcuQJU0)
+#### Cloud-Native distributed tracing using open source - Jaeger and opentracing - by Itiel Shwartz
+{% youtube gRE_TbYEsjE %}
+
+#### Blue/green deployment, canary releases and database consistency by Tomer Admon
+{% youtube imnXxcuQJU0 %}
+
  
 # Meetup slides
 

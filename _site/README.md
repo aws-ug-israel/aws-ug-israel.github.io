@@ -49,7 +49,7 @@ Now browse to http://localhost:4000
 
 ## meetup.com API
 In order to populate past meetups and upcoming meetups, we will use meetup.com API.
-For for details: https://www.meetup.com/meetup_api/
+For more details: https://www.meetup.com/meetup_api/
 
 ### Get past meetups for 2018 and dump it into JSON file (located under _data folder)
 ```
