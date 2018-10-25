@@ -41,6 +41,10 @@ Clone aws-ug-israel.github.io.git repository
 git clone https://github.com/aws-ug-israel/aws-ug-israel.github.io.git
 cd aws-ug-israel.github.io
 ```
+Run `bundle install` to install missing gems
+```
+bundle install
+```
 Build the site on the preview server
 ```
 bundle exec jekyll serve

@@ -34,8 +34,6 @@ GEM
       nuggets
     jekyll-watch (2.0.0)
       listen (~> 3.0)
-    jekyll-youtube (1.0.0)
-      jekyll
     kramdown (1.17.0)
     liquid (4.0.0)
     listen (3.1.5)
@@ -66,7 +64,6 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-tagging
-  jekyll-youtube
 
 BUNDLED WITH
-   1.16.2
+   1.17.0
