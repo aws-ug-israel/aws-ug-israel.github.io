@@ -57,10 +57,10 @@ For more details: https://www.meetup.com/meetup_api/
 
 ### Get past meetups for 2018 and dump it into JSON file (located under _data folder)
 ```
-curl -X GET 'https://api.meetup.com/AWS-IL/events?no_earlier_than=2018-01-01&no_later_than=2019-01-01&status=past&desc=true' > past_meetups_2018.json
+curl -X GET 'https://api.meetup.com/AWS-IL/events?no_earlier_than=2018-01-01&no_later_than=2019-01-01&status=past&desc=true' > _data/past_meetups_2018.json
 ```
 
 ### Get upcoming meetups and dump it into JSON file (located under _data folder)
 ```
-curl -X GET 'https://api.meetup.com/AWS-IL/events' > coming_meetups.json
+curl -X GET 'https://api.meetup.com/AWS-IL/events' > _data/coming_meetups.json
 ```
