@@ -5,10 +5,61 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Oct 2018 12:41:48 +0200</pubDate>
-    <lastBuildDate>Wed, 31 Oct 2018 12:41:48 +0200</lastBuildDate>
+    <pubDate>Wed, 02 Jan 2019 20:46:42 +0200</pubDate>
+    <lastBuildDate>Wed, 02 Jan 2019 20:46:42 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>2018-12-25 - AWS Community Day Tel Aviv 2018</title>
+        <description>&lt;h1 id=&quot;community-day-recordings&quot;&gt;Community Day Recordings&lt;/h1&gt;
+
+&lt;h4 id=&quot;welcome--reinvent-recap---shimon-tolts-datree--boaz-ziniman-aws&quot;&gt;Welcome + re:Invent re:Cap - Shimon Tolts, Datree &amp;amp; Boaz Ziniman, AWS&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/AkGos4B3FVo&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;serverless-etl--data-pipeline---michael-haberman&quot;&gt;Serverless ETL &amp;amp; Data Pipeline - Michael Haberman&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/x13O81c75rI&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;building-a-threat-analytics-multi-region-data-lake-on-aws---ori-nakar-imperva&quot;&gt;Building a Threat-Analytics Multi-Region Data Lake on AWS - Ori Nakar, Imperva&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/SB278D-YByw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;microservices-are-easy-dependencies-are-hard-the-right-way-to-build-a-cloud-native-cicd---itiel-shwartz-rookout&quot;&gt;Microservices are ‘easy’, dependencies are hard: The right way to build a cloud-native CI/CD - Itiel Shwartz, Rookout&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/ppWALA6dZg4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;from-one-ec2-in-production-to-hundreds-of-containers-running-on-ecs-clusters---eitan-sela-weissbeerger&quot;&gt;From one EC2 in production to hundreds of containers running on ECS clusters - Eitan Sela, Weissbeerger&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/xOHHFo34uOM&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;when-the-aws-elb-is-just-not-enoughgive-me-moar---maish-saidel-keesing-cyberark&quot;&gt;When the AWS ELB is just not enough…give me MOAR!!!!! - Maish Saidel-Keesing, CyberArk&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/5PMpQvkXy7c&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;access-control-in-a-multi-account-environment---shimi-rokah-nice&quot;&gt;Access control in a multi-account environment - Shimi Rokah, Nice&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/svfcjot454c&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;streaming-realtime-rendered-hls-videos-using-lambdaedge---shay-lichtin-sundaysky&quot;&gt;Streaming Realtime Rendered HLS Videos Using Lambda@Edge - Shay Lichtin, SundaySky&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/lg_1jHBvvsM&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;rapid-prototyping-with-raspberry-pi-and-aws-iot---amir-ben-ari-silo&quot;&gt;Rapid prototyping with Raspberry Pi and AWS IoT - Amir Ben Ari, Silo&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/NeJo-Wy6K_s&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;the-real-cost-of-pay-per-use-in-serverless---ran-ribzenaft-epsagon&quot;&gt;The Real Cost of Pay-Per-Use in Serverless - Ran Ribzenaft, Epsagon&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/rVCx8dHidGg&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;h5 id=&quot;serverless-etl--data-pipeline-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Serverless_data_pipeline_aws_community_day.pdf&quot;&gt;Serverless ETL &amp;amp; Data Pipeline&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;building-a-threat-analytics-multi-region-data-lake-on-aws-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Building_a_Threat-Analytics_Multi-Region_|Data_Lake_on_AWS.pptx&quot;&gt;Building a Threat-Analytics Multi-Region Data Lake on AWS&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;microservices-are-easy-dependencies-are-hard-the-right-way-to-build-a-cloud-native-cicd-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Microservices_are_easy_dependencies_are_hard.pdf&quot;&gt;Microservices are ‘easy’, dependencies are hard: The right way to build a cloud-native CI/CD&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;from-one-ec2-in-production-to-hundreds-of-containers-running-on-ecs-clusters-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Telling_the_story_of_WeissBeerger_Cloud_Evolution.pdf&quot;&gt;From one EC2 in production to hundreds of containers running on ECS clusters&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;when-the-aws-elb-is-just-not-enoughgive-me-moar-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Maish_Saidel_Keesing_CommunityDay_TLV.pdf&quot;&gt;When the AWS ELB is just not enough…give me MOAR!!!!!&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;access-control-in-a-multi-account-environment-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/AccessControlForMultiAccount-Copyright_2018-NICE_LTD.pdf&quot;&gt;Access control in a multi-account environment&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;streaming-realtime-rendered-hls-videos-using-lambdaedge-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/Streaming_Realtime_Rendered_HLS_Videos_Using_Lambda@Edge.pdf&quot;&gt;Streaming Realtime Rendered HLS Videos Using Lambda@Edge&lt;/a&gt; PDF file.&lt;/h5&gt;
+&lt;h5 id=&quot;rapid-prototyping-with-raspberry-pi-and-aws-iot&quot;&gt;&lt;a href=&quot;https://prezi.com/p/w64v-axsvfsp/aws-iot-based-pipeline/&quot;&gt;Rapid prototyping with Raspberry Pi and AWS IoT&lt;/a&gt;&lt;/h5&gt;
+&lt;h5 id=&quot;the-real-cost-of-pay-per-use-in-serverless-pdf-file&quot;&gt;&lt;a href=&quot;/assets/slides/The_Real_Cost_of_Pay-Per-Use_in_Serverless.pdf&quot;&gt;The Real Cost of Pay-Per-Use in Serverless&lt;/a&gt; PDF file.&lt;/h5&gt;
+</description>
+        <pubDate>25 Dec 2018</pubDate>
+        <link>http://localhost:4000/2018/12/25/aws_community_day_tel_aviv_2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/25/aws_community_day_tel_aviv_2018/</guid>
+      </item>
     
       <item>
         <title>2018-10-22 - Bad Practices On AWS</title>
