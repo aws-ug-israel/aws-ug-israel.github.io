@@ -5,10 +5,25 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Jan 2019 20:46:42 +0200</pubDate>
-    <lastBuildDate>Wed, 02 Jan 2019 20:46:42 +0200</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2019 20:02:45 +0200</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2019 20:02:45 +0200</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>2019-02-26 - Overcoming messy things on AWS</title>
+        <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
+
+&lt;p&gt;None available.&lt;/p&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/slides/Overcoming_messy_things_on_AWS.pdf&quot;&gt;Overcoming_messy_things_on_AWS&lt;/a&gt; PDF file.&lt;/p&gt;
+</description>
+        <pubDate>26 Feb 2019</pubDate>
+        <link>http://localhost:4000/2019/02/26/overcoming_messy_things_on_aws/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/26/overcoming_messy_things_on_aws/</guid>
+      </item>
     
       <item>
         <title>2018-12-25 - AWS Community Day Tel Aviv 2018</title>
@@ -201,6 +216,17 @@
 &lt;/ul&gt;
 
 ### Past meetups
+
+#### 2019
+&lt;ul&gt;
+{% for meetup in site.data.past_meetups_2019 %}
+  &lt;li&gt;
+    &lt;a href=&quot;{{ meetup.link }}&quot;&gt;
+      {{ meetup.name }}
+    &lt;/a&gt;
+  &lt;/li&gt;
+{% endfor %}
+&lt;/ul&gt;
 
 #### 2018
 &lt;ul&gt;

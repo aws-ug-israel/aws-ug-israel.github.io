@@ -16,6 +16,17 @@ image: '/assets/aws_il_user_group_big.jpeg'
 
 ### Past meetups
 
+#### 2019
+<ul>
+{% for meetup in site.data.past_meetups_2019 %}
+  <li>
+    <a href="{{ meetup.link }}">
+      {{ meetup.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 #### 2018
 <ul>
 {% for meetup in site.data.past_meetups_2018 %}
