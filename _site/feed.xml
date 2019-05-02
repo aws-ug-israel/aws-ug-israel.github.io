@@ -5,10 +5,29 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 20:02:45 +0200</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 20:02:45 +0200</lastBuildDate>
+    <pubDate>Thu, 02 May 2019 17:50:13 +0300</pubDate>
+    <lastBuildDate>Thu, 02 May 2019 17:50:13 +0300</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
 
+    
+      <item>
+        <title>2019-04-30 - Deep dive into new AWS services - Lambda Layers &amp; Firecracker Container</title>
+        <description>&lt;h1 id=&quot;meetups-recordings&quot;&gt;Meetups Recordings&lt;/h1&gt;
+
+&lt;h4 id=&quot;firecracker-container---niv-yungelson---devops-team-lead--skycure-acquired-by-symantec&quot;&gt;Firecracker Container - Niv Yungelson - DevOps Team Lead @ Skycure (acquired by Symantec)&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/aktsgdPFXvA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h4 id=&quot;lambda-layers---eitan-sela---cloud--big-data-systems-architect--weissbeerger&quot;&gt;Lambda Layers - Eitan Sela - Cloud &amp;amp; Big Data Systems Architect @ WeissBeerger&lt;/h4&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/_e2DEF-mLnc&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+
+&lt;h1 id=&quot;meetup-slides&quot;&gt;Meetup slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/slides/Deep_dive_into_new_AWS_services.pdf&quot;&gt;Deep_dive_into_new_AWS_services&lt;/a&gt; PDF file.&lt;/p&gt;
+</description>
+        <pubDate>30 Apr 2019</pubDate>
+        <link>http://localhost:4000/2019/04/30/deep_dive_into_new_aws_services/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/30/deep_dive_into_new_aws_services/</guid>
+      </item>
     
       <item>
         <title>2019-02-26 - Overcoming messy things on AWS</title>

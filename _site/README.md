@@ -47,6 +47,7 @@ bundle install
 ```
 Build the site on the preview server
 ```
+export LC_ALL="en_US.UTF-8"
 bundle exec jekyll serve
 ```
 Now browse to http://localhost:4000
